@@ -146,3 +146,13 @@ If you’re outside VS Code and just using PowerShell:
 # Start the interactive CLI
 python main.py
 ```
+
+## 🧠 New User Tips (Optional but Helpful)
+
+* 💾 **Backup Your Progress**: Push your fork to a private repo like `research-automation-ai-backup`
+* 🔐 **Never Share `.env` Files**: Use `.gitignore` to keep secrets safe (already included)
+* 📝 **Use `README.md` and `CHANGELOG.md`**: Track what you learn or modify
+* 💻 **Try Screenshots**: Add visual walkthroughs for team sharing
+* 🔍 **Don't Fear Git**: Use `git status`, `git add`, `git commit` regularly to manage changes
+
+> 🚀 Built for learners by learners — safe, open, powerful research automation.
